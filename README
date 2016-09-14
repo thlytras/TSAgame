@@ -1,0 +1,14 @@
+This is a small (educational) game to demonstrate how the autocorrelation 
+plot and periodogram change with different parameters in a time series.
+It was created after the ECDC-EpiConcept Time Series Analysis course at 
+Veyrier-du-Lac on 12-14 September 2016.
+Comments and suggestions are most welcome!
+
+You have to have R and shiny installed (or just RStudio). 
+Place app.R in your working directory and run it with:
+
+library(shiny)
+runApp('.')
+
+Enjoy,
+Theodore Lytras
